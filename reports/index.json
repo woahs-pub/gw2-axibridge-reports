@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261108-195922-5wkh",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-11-09T00:59:22.000Z",
+      "dateEnd": "2026-11-09T02:07:58.586Z",
+      "dateLabel": "11/8/2026, 7:59:22 PM - 11/8/2026, 9:07:58 PM",
+      "url": "https://woahs-pub.github.io/gw2-axibridge-reports/?report=20261108-195922-5wkh",
+      "publishedBy": "woahs-pub",
+      "summary": {
+        "borderlandsPct": 0.9230769230769231,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20261103-193437-ucv7",
       "title": "Lightspeed Jack",
       "commanders": [
