@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261111-203227-exxu",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-11-12T01:32:27.000Z",
+      "dateEnd": "2026-11-12T02:45:23.394Z",
+      "dateLabel": "11/11/2026, 8:32:27 PM - 11/11/2026, 9:45:23 PM",
+      "url": "https://woahs-pub.github.io/gw2-axibridge-reports/?report=20261111-203227-exxu",
+      "publishedBy": "woahs-pub",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 29,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20261110-194918-ra7x",
       "title": "Lightspeed Jack",
       "commanders": [
